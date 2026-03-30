@@ -8,4 +8,39 @@
   Run `npm i` to install the dependencies.
 
   Run `npm run dev` to start the development server.
+
+   ## Solo se muestra los Digimons de la Primera Generacion 
+   
+ 🔥 Agumon
+Agumon → Greymon → MetalGreymon → WarGreymon
+
+🌊 Gabumon
+
+Gabumon → Garurumon → WereGarurumon → MetalGarurumon
+
+⚡ Biyomon
+
+Biyomon → Birdramon → Garudamon → Phoenixmon (Hououmon)
+
+🌵 Palmon
+
+Palmon → Togemon → Lillymon → Rosemon
+
+❄️ Gomamon
+
+Gomamon → Ikkakumon → Zudomon → Vikemon
+
+🐞 Tentomon
+
+Tentomon → Kabuterimon → MegaKabuterimon → HerculesKabuterimon
+
+🐱 Gatomon (Tailmon)
+
+Salamon → Gatomon (Tailmon) → Angewomon → Magnadramon
+
+🐰 Patamon
+
+Patamon → Angemon → MagnaAngemon → Seraphimon
+
+Entre otros mas , estos son los mas resaltantes
   
